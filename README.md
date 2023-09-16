@@ -1,4 +1,4 @@
-# CThripsos an R package to analyse chromothripsis in single cells. 
+# CThripsos an R package to analyse chromothripsis in single cells from Copy Number Variation (CNV) data. 
 
 CThripsos is an easy to use R package that allows to analyse scDNA-seq data and to provide different scores that indicate the presence of chromotripsis in single cell CNV profiles.
 
